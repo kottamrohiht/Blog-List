@@ -1,0 +1,23 @@
+.list-item {
+  width: 100%;
+}
+
+.title-date-container {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.title {
+  color: #12022f;
+  font-size: 17px;
+  font-weight: 600;
+  font-family: 'Roboto';
+}
+
+.date {
+  color: #9aa5b1;
+  font-size: 13px;
+  font-weight: 500;
+  font-family: 'Roboto';
+}
